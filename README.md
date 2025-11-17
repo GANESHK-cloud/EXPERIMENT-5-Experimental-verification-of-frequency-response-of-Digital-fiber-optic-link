@@ -54,24 +54,25 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 **Setting up a Digital Link**
 
 *(Insert connection diagram here)*
+![WhatsApp Image 2025-11-17 at 9 02 04 PM](https://github.com/user-attachments/assets/fa8ca070-e999-4f87-9a24-73a75340566b)
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2025-11-17 at 9 04 24 PM](https://github.com/user-attachments/assets/3b5717dd-49e9-42ff-9d44-c0fa4d32a048)
 
 ---
 
 ## MODEL GRAPH
 
 *(Insert model graph here)*
+<img width="1236" height="693" alt="image" src="https://github.com/user-attachments/assets/c20e0dea-9082-4ee4-a160-52df9991dace" />
 
 ---
 
 ## RESULT
 
 *(Summarize observations and conclusions here)*
+Thus the optic fibre digital link is studied succesfully
