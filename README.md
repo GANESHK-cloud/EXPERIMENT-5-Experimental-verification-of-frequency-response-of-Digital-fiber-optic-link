@@ -1,6 +1,6 @@
 
-## Exp 5 Experimental verification of frequency response of Digital fiber optic link
-# Digital Fiber Optic Link Analysis (600nm)
+# Exp 5 Experimental verification of frequency response of Digital fiber optic link
+## Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
 To analyze the relationship between input and received signal of a 600nm fiber optic cable using digital link.
